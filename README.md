@@ -1,8 +1,9 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning  Next.js , React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning full stack Developer
+-  👯 I’m looking to collaborate on full stack develop and fronted dev
+- 🤔 how to reach me
+@likhithalakshmi12@gmail.com
 
 <!--
 **Likhithasphani/Likhithasphani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
