@@ -1,6 +1,6 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning full stack Developer
+## Hi I'm likhitha lakshmi 👋
+- 🔭 I’m currently working on Full stack developer
+- 🌱 I’m currently learning Next.js
 -  👯 I’m looking to collaborate on full stack develop and fronted dev
 - 🤔 how to reach me
 @likhithalakshmi12@gmail.com
